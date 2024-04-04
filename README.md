@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/coderbabu00](https://github.com/coderbabu00)
 
-- 💬 Ask me about **Node Js and Databases**
+- 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/varunsharmadev/**
+- 📫 How to reach me **vrun771@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
