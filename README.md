@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderbabu00&label=Profile%20views&color=0e75b6&style=flat" alt="coderbabu00" /> </p>
 
-- 🌱 I’m currently learning **Go Lang and Spring Boot**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/coderbabu00](https://github.com/coderbabu00)
 
